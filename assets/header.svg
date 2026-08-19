@@ -49,9 +49,6 @@
 
   <!-- Цитата (разбита на две строки) -->
   <text x="400" y="115" text-anchor="middle" class="sub">
-    «Программист — это не тот, кто знает всё.
-  </text>
-  <text x="400" y="145" text-anchor="middle" class="sub">
-    Это тот, кто умеет искать ответы, когда всё идёт не так.»
+    «Simplicity is the soul of efficiency.»
   </text>
 </svg>
