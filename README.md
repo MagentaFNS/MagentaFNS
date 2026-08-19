@@ -1,24 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
-  <defs>
-    <style>
-      @keyframes glow {
-        0% { text-shadow: 0 0 10px #ffffff; }
-        50% { text-shadow: 0 0 30px #ffffff, 0 0 60px #ffffff; }
-        100% { text-shadow: 0 0 10px #ffffff; }
-      }
-      @keyframes fadeIn {
-        0% { opacity: 0; transform: translateY(-20px); }
-        100% { opacity: 1; transform: translateY(0); }
-      }
-      .text { animation: glow 2s infinite; font-size: 40px; fill: #ffffff; font-weight: bold; }
-      .sub { animation: fadeIn 3s; font-size: 20px; fill: #aaa; }
-    </style>
-  </defs>
-  <text x="250" y="55" text-anchor="middle" class="text">MagentaFNS</text>
-    <p align="center">
-        <i>«Программист — это не тот, кто знает всё.<br>Это тот, кто умеет искать ответы, когда всё идёт не так.»</i>
-    </p>
-</svg>
+<p align="center">
+  <img src="assets/header.svg" alt="Анимированный заголовок" width="2000" />
+</p>
 
 ---
 
