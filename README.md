@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Backend-FFFFFF?style=for-the-badge&logoColor=000000" />
-  </a>
+  <img src="assets/backend.svg" alt="Backend" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=45&section=header&fontSize=0" alt="Wave" />
