@@ -6,22 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=45&section=header&fontSize=0" alt="Wave" />
 
-
-### Привет, я MagentaFNS
-
-Это мой публичный профиль как разработчика.
-
-Здесь я учусь, ошибаюсь, расту и превращаю сложное в работающие вещи.
-
----
-
-### Сейчас в фокусе
-
-- **Изучаю:** Python, FastAPI, базы данных и архитектуру бэкенда.
-- **Строю:** [DevJournal](https://github.com/MagentaFNS/DevJournal) — дневник для командной аналитики.
-- **Экспериментирую:** в репозитории [Learning](https://github.com/MagentaFNS/Learning).
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=000000" />
