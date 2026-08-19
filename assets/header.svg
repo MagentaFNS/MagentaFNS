@@ -45,7 +45,7 @@
   <rect width="800" height="200" fill="#0a0a0a00" />
 
   <!-- Заголовок -->
-  <text x="400" y="70" text-anchor="middle" class="title">𝑴𝒂𝒈𝒆𝒏𝒕𝒂</text>
+  <text x="400" y="70" text-anchor="middle" class="title">Magenta</text>
 
   <!-- Цитата (разбита на две строки) -->
   <text x="400" y="115" text-anchor="middle" class="sub">
