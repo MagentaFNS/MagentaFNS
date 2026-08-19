@@ -4,6 +4,12 @@
   <img src="assets/header.svg" alt="Анимированный заголовок" width="2000" />
 </p>
 
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Backend-FFFFFF?style=for-the-badge&logoColor=000000" />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=45&section=header&fontSize=0" alt="Wave" />
 
 <p align="center">
@@ -19,12 +25,6 @@
   </a>
   <a href="mailto:glebpolivoda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Backend-FFFFFF?style=for-the-badge&logoColor=000000" />
   </a>
 </p>
 
