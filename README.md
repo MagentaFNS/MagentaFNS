@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=80&section=header&fontSize=0" alt="Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=50&section=header&fontSize=0" alt="Wave" />
 
 <p align="center">
   <img src="assets/header.svg" alt="Анимированный заголовок" width="2000" />
@@ -38,4 +38,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=60&section=footer&fontSize=0" alt="Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=50&section=footer&fontSize=0" alt="Wave" />
