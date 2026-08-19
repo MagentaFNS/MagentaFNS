@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=50&section=header&fontSize=0" alt="Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=40&section=header&fontSize=0" alt="Wave" />
 
 <p align="center">
   <img src="assets/header.svg" alt="Анимированный заголовок" width="2000" />
@@ -22,4 +22,10 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=50&section=footer&fontSize=0" alt="Wave" />
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Backend-FFFFFF?style=for-the-badge&logoColor=000000" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=40&section=footer&fontSize=0" alt="Wave" />
